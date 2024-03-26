@@ -79,8 +79,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+![Ex1 output](https://github.com/Sunilkumar074/simplewebserver/assets/152241049/8354af32-da63-4721-912e-040237859ccc)
 
-![Ex1 output](https://github.com/Sunilkumar074/simplewebserver/assets/152241049/b033992e-3fe4-454b-9a98-e9fe3fb9e381)
 
 ![table](https://github.com/Sunilkumar074/simplewebserver/assets/152241049/e190b687-88ae-4b65-bfaa-75d66aa55b31)
 
