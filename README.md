@@ -1,8 +1,8 @@
 # EX01 Developing a Simple Webserver
 ## Date: 13.03.2024
-## Name: Blessing Jeffrey Y.L
-## Roll no: 212223220014
-## Dept: IT
+## Name: Sunil Kumar P.B
+## Roll no: 212223040213
+## Dept: CSE
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -79,9 +79,11 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![1](https://github.com/blessingjeffrey/simplewebserver/assets/149134943/04351940-660b-49df-ada2-1cbe32df9a04)
 
-![2](https://github.com/blessingjeffrey/simplewebserver/assets/149134943/9c630daa-40df-429c-ac78-8e9c27bf4fed)
+![Ex1 output](https://github.com/Sunilkumar074/simplewebserver/assets/152241049/b033992e-3fe4-454b-9a98-e9fe3fb9e381)
+
+![table](https://github.com/Sunilkumar074/simplewebserver/assets/152241049/e190b687-88ae-4b65-bfaa-75d66aa55b31)
+
 
 
 ## RESULT:
